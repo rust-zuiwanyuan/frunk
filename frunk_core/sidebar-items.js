@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["Hlist","Returns a type signature for an HList of the provided types"],["hlist","Returns an `HList` based on the values passed in."],["hlist_pat","Macro for pattern-matching on HLists."]],"mod":[["generic",""],["hlist","Module that holds HList data structures and implementations"]]});
